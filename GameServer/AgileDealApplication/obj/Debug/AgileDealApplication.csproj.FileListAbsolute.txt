@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\bin\AgileDealApplication.dll
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\bin\AgileDealApplication.pdb
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\bin\AgileDealServerSide.dll
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\bin\AgileDealServerSide.pdb
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\obj\Debug\AgileDealApplication.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\obj\Debug\AgileDealApplication.dll
+D:\Microsoft Visual Studio Files\AgileGameServerApp\AgileDealApplication\AgileDealApplication\obj\Debug\AgileDealApplication.pdb
